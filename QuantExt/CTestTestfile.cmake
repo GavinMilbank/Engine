@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /home/jovyan/QuantExt
+# Build directory: /home/jovyan/QuantExt
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("qle")
+subdirs("doc")
+subdirs("test")
